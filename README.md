@@ -1,9 +1,9 @@
 ### Hi there 👋, I am [Shumaim](https://shumaim-naseer-kiyani.github.io/My-Site/)! 😁
 
-<h1>About me 💁‍♀️</h1>
+<h1>💁‍♀️ About me</h1>
 Hello, my name is Shumaim Naseer Kiyani and I'm a junior at [Air University](https://www.au.edu.pk/) majoring in Computer Science. I am greatly invested in enhancing my coding and development skills. I have been coding since 2021, and so far I've had quite the experience. I have a firm grip over C++, and I'm advancing my coding skills in languages such as pyhton, html, CSS etc. Besides programming, I have an immense interest in writing and researching.
 
-<h1>Contact Me 🤙</h1>
+<h1>🤙 Contact Me</h1>
 <br>
 <p align="center">
   <a href="www.linkedin.com/in/shumaim-kiyani" target="_blank">
@@ -18,7 +18,7 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a junior at [Air University](htt
 </p> 
 </br>
 
-<h1>My Skills 🧰</h1>
+<h1>![image](https://user-images.githubusercontent.com/123255589/218260210-a2127d8f-c9cb-4634-b3b5-6f993ed25412.png) My Skills</h1>
 <br>
 <p>Languages</p>
 <p align="center">
@@ -40,7 +40,7 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a junior at [Air University](htt
 </p>
 </br>
     
-
+<h1>My Stats 📊</h1>
 ![Shumaim's Github Stats](https://github-readme-stats.vercel.app/api?username=Shumaim-Naseer-Kiyani&count_private=true&show_icons=true&theme=blue-green)
 ![Top Langs](	https://github-readme-stats.vercel.app/api/top-langs/?username=Shumaim-Naseer-Kiyani&count_private=true&show_icons=true&theme=blue-green)
-<p><b>Disclaimer:</b> Statics mentioned above do not showcase proficiency level in the languages</p>  
+<p><strong>Disclaimer:</strong> Statics mentioned above do not showcase proficiency level in the languages</p>  
