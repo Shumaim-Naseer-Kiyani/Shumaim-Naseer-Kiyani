@@ -22,12 +22,26 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a junior at [Air University](htt
 <br>
 <p>Languages</p>
 <p align="center">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  </a>
 </p>
+<p>Front-End Development</p>
+<p align="center">
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img alt="HTML" src="https://www.w3schools.com/html/">
+  </a>
+  <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">
+    <img alt="CSS" src="https://www.w3schools.com/css/css_intro.asp">
+  </a>
+</p>
+</br>
     
 
-![Shumaim's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+![Shumaim's Github Stats](https://github-readme-stats.vercel.app/api?username={Shumaim-Naseer-Kiyani}&theme=blue-green)
+![Top Langs](	https://github-readme-stats.vercel.app/api/top-langs/?username={Shumaim-Naseer-Kiyani}&theme=blue-green)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
