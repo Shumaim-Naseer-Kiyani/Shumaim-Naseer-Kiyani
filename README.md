@@ -32,10 +32,10 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a junior at [Air University](htt
 <p>Front-End Development</p>
 <p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank">
-    <img alt="HTML" src="https://www.w3schools.com/html/">
+    <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   <a href="https://www.w3schools.com/css/css_intro.asp" target="_blank">
-    <img alt="CSS" src="https://www.w3schools.com/css/css_intro.asp">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
 </p>
 </br>
