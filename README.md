@@ -9,6 +9,13 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a junior at [Air University](htt
   <a href="www.linkedin.com/in/shumaim-kiyani" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="shumaimkiyani@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Shumaim-Naseer-Kiyani" target="_blank">
+    <img alt="GitHub" src="https://github.com/Shumaim-Naseer-Kiyani">
+   </a>
+</p>  
     
 
 ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
