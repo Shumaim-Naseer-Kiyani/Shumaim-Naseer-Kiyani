@@ -18,7 +18,7 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a junior at [Air University](htt
 </p> 
 </br>
 
-<h1>![image](https://user-images.githubusercontent.com/123255589/218260210-a2127d8f-c9cb-4634-b3b5-6f993ed25412.png) My Skills</h1>
+<h1><img alt="toolbox" src="https://user-images.githubusercontent.com/123255589/218260210-a2127d8f-c9cb-4634-b3b5-6f993ed25412.png"> My Skills</h1>
 <br>
 <p>Languages</p>
 <p align="center">
