@@ -41,7 +41,7 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a junior at [Air University](htt
 </br>
     
 
-![Shumaim's Github Stats](https://github-readme-stats.vercel.app/api?username={Shumaim-Naseer-Kiyani&count_private=true&show_icons=true}&theme=blue-green)
+![Shumaim's Github Stats](https://github-readme-stats.vercel.app/api?username={Shumaim-Naseer-Kiyani}&count_private=true&show_icons=true&theme=blue-green)
 ![Top Langs](	https://github-readme-stats.vercel.app/api/top-langs/?username={Shumaim Naseer}&theme=blue-green)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
