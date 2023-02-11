@@ -13,7 +13,7 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a junior at [Air University](htt
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/Shumaim-Naseer-Kiyani" target="_blank">
-    <img alt="GitHub" src="https://github.com/Shumaim-Naseer-Kiyani">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
    </a>
 </p>  
     
