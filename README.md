@@ -6,7 +6,7 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a sophomore at [Air University](
 <h1>🤙 Contact Me</h1>
 <br>
 <p align="center">
-  <a href="www.linkedin.com/in/shumaim-kiyani" target="_blank">
+  <a href="https://www.linkedin.com/in/shumaim-kiyani" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="shumaimkiyani@gmail.com" target="_blank">
