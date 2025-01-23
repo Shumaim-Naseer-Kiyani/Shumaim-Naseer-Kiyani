@@ -20,7 +20,7 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a sophomore at [Air University](
 
 <h1>⚙️ My Skills</h1>
 <br>
-<p>Languages</p>
+<p>Front-End Development</p>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -28,9 +28,6 @@ Hello, my name is Shumaim Naseer Kiyani and I'm a sophomore at [Air University](
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   </a>
-</p>
-<p>Front-End Development</p>
-<p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
